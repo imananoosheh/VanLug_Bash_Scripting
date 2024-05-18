@@ -18,4 +18,4 @@ echo "My name is :$myfirstname $mylastname"
 
 #   To make a persistent environment variables
 
-sudo nano ~/.bashrc
+nano ~/.bashrc
